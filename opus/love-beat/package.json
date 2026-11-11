@@ -1,0 +1,20 @@
+{
+ "name": "love-beat",
+ "private": true,
+ "dependencies": {
+  "@remotion/bundler": "4.0.541",
+  "@remotion/renderer": "4.0.541",
+  "@remotion/cli": "4.0.541",
+  "remotion": "4.0.541",
+  "react": "19.3.1",
+  "react-dom": "19.3.1",
+  "@remotion/three": "4.0.541",
+  "three": "^0.187.0",
+  "@react-three/fiber": "^9.8.2"
+ },
+ "devDependencies": {
+  "@types/react": "19.3.0",
+  "typescript": "5.9.3",
+  "@types/three": "^0.187.0"
+ }
+}

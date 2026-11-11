@@ -1,0 +1,12 @@
+import fs from "node:fs";
+import path from "node:path";
+import { MsEdgeTTS, OUTPUT_FORMAT } from "msedge-tts";
+const out = path.resolve("out/tts-test"); fs.mkdirSync(out,{recursive:true});
+const tts = new MsEdgeTTS({connectionTimeoutMs:30000,synthesisTimeoutMs:120000});
+await tts.setMetadata("zh-CN-XiaoxiaoNeural", OUTPUT_FORMAT.AUDIO_24KHZ_48KBITRATE_MONO_MP3, {sentenceBoundaryEnabled:true});
+const body = `<prosody rate="+8%" pitch="+0Hz">第三天夜晚，</prosody><break time="280ms"/><prosody rate="+2%" pitch="+0Hz">我会去看一场日落。</prosody><break time="420ms"/><prosody rate="+5%" pitch="-1Hz">然后闭上眼睛，</prosody><break time="260ms"/><prosody rate="-2%" pitch="-2Hz">把光，留在眼皮后面。</prosody>`;
+const ssml = `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural">${body}</voice></speak>`;
+const dir = path.join(out,"xiaoxiao_ssml"); fs.mkdirSync(dir,{recursive:true});
+await tts.rawToFile(dir, ssml); tts.close();
+fs.copyFileSync(path.join(dir,"audio.mp3"), path.join(out,"xiaoxiao_ssml.mp3"));
+console.log("ok");

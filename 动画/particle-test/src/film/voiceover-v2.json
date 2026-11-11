@@ -1,0 +1,150 @@
+[
+  {
+    "id": "01_open",
+    "chunks": [
+      { "text": "如果，明天醒来，", "rate": "+0%", "pitch": "-3Hz", "gapMs": 240 },
+      { "text": "世界只剩下声音。", "rate": "-3%", "pitch": "-4Hz", "gapMs": 420 },
+      { "text": "你会先去看什么？", "rate": "+3%", "pitch": "+2Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "02_keller",
+    "chunks": [
+      { "text": "海伦·凯勒在十九个月大时，", "rate": "+4%", "pitch": "-1Hz", "gapMs": 220 },
+      { "text": "失去了看见和听见的能力。", "rate": "-2%", "pitch": "-3Hz", "gapMs": 300 },
+      { "text": "许多年后，她写下《假如给我三天光明》。", "rate": "+1%", "pitch": "-2Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "03_faces",
+    "chunks": [
+      { "text": "第一天，", "rate": "+1%", "pitch": "-2Hz", "gapMs": 200 },
+      { "text": "我要长久地凝视那些我爱的人。", "rate": "-1%", "pitch": "-1Hz", "gapMs": 340 },
+      { "text": "看他们的眼睛，看笑意怎样从眼角升起，", "rate": "+4%", "pitch": "+1Hz", "gapMs": 130 },
+      { "text": "看沉默怎样落在嘴角。", "rate": "-4%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "04_memory",
+    "chunks": [
+      { "text": "我还要看一个朋友，", "rate": "+3%", "pitch": "-1Hz", "gapMs": 140 },
+      { "text": "刚刚哭过的眼睛。", "rate": "-4%", "pitch": "-4Hz", "gapMs": 340 },
+      { "text": "然后，把他们的样子，一寸一寸，", "rate": "+1%", "pitch": "-1Hz", "gapMs": 140 },
+      { "text": "放进记忆里。", "rate": "-5%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "05_ordinary",
+    "chunks": [
+      { "text": "黑暗里，", "rate": "+0%", "pitch": "-3Hz", "gapMs": 220 },
+      { "text": "我早已学会用指尖辨认世界。", "rate": "+1%", "pitch": "-1Hz", "gapMs": 320 },
+      { "text": "可如果只有三天，", "rate": "+3%", "pitch": "+1Hz", "gapMs": 160 },
+      { "text": "我想用眼睛，再认识他们一次。", "rate": "-4%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "06_street",
+    "chunks": [
+      { "text": "下午，我要走过一条普通的街。", "rate": "+5%", "pitch": "-1Hz", "gapMs": 240 },
+      { "text": "看阳光怎样落在旧木桌上，", "rate": "+4%", "pitch": "-1Hz", "gapMs": 130 },
+      { "text": "看一杯水的边缘怎样发亮，", "rate": "+5%", "pitch": "+1Hz", "gapMs": 130 },
+      { "text": "看一本书翻开时，纸页上细小的纤维。", "rate": "+2%", "pitch": "-3Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "07_day1_end",
+    "chunks": [
+      { "text": "那些我们每天经过、却从不真正看见的东西，", "rate": "+0%", "pitch": "-2Hz", "gapMs": 320 },
+      { "text": "是我第一天最想收藏的风景。", "rate": "-4%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "08_dawn",
+    "chunks": [
+      { "text": "第二天，我要在黎明前起身，", "rate": "+3%", "pitch": "-1Hz", "gapMs": 260 },
+      { "text": "看黑夜怎样退去。", "rate": "-5%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "09_museum",
+    "chunks": [
+      { "text": "然后去博物馆，看人类把时间刻进石头；", "rate": "+5%", "pitch": "-1Hz", "gapMs": 220 },
+      { "text": "去美术馆，看一个人怎样把疼痛、爱与光，", "rate": "+3%", "pitch": "-2Hz", "gapMs": 130 },
+      { "text": "留在画布上。", "rate": "-4%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "10_statue",
+    "chunks": [
+      { "text": "我触摸过雕像的轮廓，", "rate": "+1%", "pitch": "-1Hz", "gapMs": 220 },
+      { "text": "却从未看见它被光唤醒的样子。", "rate": "-4%", "pitch": "-4Hz", "gapMs": 340 },
+      { "text": "原来文明，是一代又一代人，", "rate": "+2%", "pitch": "-2Hz", "gapMs": 130 },
+      { "text": "替后来者留下的眼睛。", "rate": "-5%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "11_theater",
+    "chunks": [
+      { "text": "夜晚，我要去剧院。", "rate": "+3%", "pitch": "-1Hz", "gapMs": 220 },
+      { "text": "看演员的脸在灯光下变换，", "rate": "+4%", "pitch": "+1Hz", "gapMs": 120 },
+      { "text": "听笑声从黑暗里浮起。", "rate": "+3%", "pitch": "+1Hz", "gapMs": 280 },
+      { "text": "我要记住舞台上的每一束光。", "rate": "-2%", "pitch": "-3Hz", "gapMs": 300 },
+      { "text": "因为明天，", "rate": "-3%", "pitch": "-2Hz", "gapMs": 220 },
+      { "text": "是最后一天。", "rate": "-8%", "pitch": "-5Hz", "gapMs": 200 }
+    ]
+  },
+  {
+    "id": "12_city",
+    "chunks": [
+      { "text": "第三天，我要去看一座城市醒来。", "rate": "+2%", "pitch": "-1Hz", "gapMs": 280 },
+      { "text": "看清洁工扫过第一片落叶，", "rate": "+5%", "pitch": "-1Hz", "gapMs": 110 },
+      { "text": "看早点摊升起白汽，", "rate": "+5%", "pitch": "+1Hz", "gapMs": 110 },
+      { "text": "看孩子跑过马路，", "rate": "+4%", "pitch": "+1Hz", "gapMs": 110 },
+      { "text": "看上班的人把疲惫藏进衣领。", "rate": "+1%", "pitch": "-3Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "13_crowd",
+    "chunks": [
+      { "text": "我要站在人群里，看无数平凡的脸，", "rate": "+1%", "pitch": "-1Hz", "gapMs": 300 },
+      { "text": "怎样共同组成一个时代。", "rate": "-2%", "pitch": "-3Hz", "gapMs": 340 },
+      { "text": "没有奇迹，没有盛典。", "rate": "-6%", "pitch": "-4Hz", "gapMs": 300 },
+      { "text": "只有生活，正在发生。", "rate": "-7%", "pitch": "-4Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "14_sunset",
+    "chunks": [
+      { "text": "第三天夜晚，我会去看一场日落。", "rate": "-1%", "pitch": "-2Hz", "gapMs": 320 },
+      { "text": "然后闭上眼睛，", "rate": "-4%", "pitch": "-3Hz", "gapMs": 200 },
+      { "text": "把光留在眼皮后面。", "rate": "-7%", "pitch": "-4Hz", "gapMs": 200 }
+    ]
+  },
+  {
+    "id": "15_quote",
+    "chunks": [
+      { "text": "海伦·凯勒说，", "rate": "+1%", "pitch": "-1Hz", "gapMs": 160 },
+      { "text": "如果每个人都能在成年后的某一天，", "rate": "+3%", "pitch": "-1Hz", "gapMs": 120 },
+      { "text": "突然失明几天，", "rate": "+1%", "pitch": "+1Hz", "gapMs": 280 },
+      { "text": "也许他们会更懂得，如何使用眼睛。", "rate": "-4%", "pitch": "-3Hz", "gapMs": 160 }
+    ]
+  },
+  {
+    "id": "16_final",
+    "chunks": [
+      { "text": "可我们不必等到失去，才学会看见。", "rate": "-1%", "pitch": "-2Hz", "gapMs": 320 },
+      { "text": "今天，请认真看一次你爱的人。", "rate": "+2%", "pitch": "+1Hz", "gapMs": 220 },
+      { "text": "看一次窗外的光。", "rate": "-3%", "pitch": "-3Hz", "gapMs": 280 },
+      { "text": "因为所谓光明，不只是眼睛的事。", "rate": "-5%", "pitch": "-3Hz", "gapMs": 260 },
+      { "text": "它是你愿意停下来，看见。", "rate": "-8%", "pitch": "-5Hz", "gapMs": 240 }
+    ]
+  },
+  {
+    "id": "17_outro",
+    "chunks": [
+      { "text": "假如给我三天光明。", "rate": "-6%", "pitch": "-2Hz", "gapMs": 420 },
+      { "text": "海伦·凯勒。", "rate": "-8%", "pitch": "-3Hz", "gapMs": 380 },
+      { "text": "献给每一个习以为常的清晨。", "rate": "-4%", "pitch": "-2Hz", "gapMs": 200 }
+    ]
+  }
+]

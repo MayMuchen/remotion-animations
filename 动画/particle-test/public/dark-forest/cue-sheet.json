@@ -1,0 +1,412 @@
+{
+  "title": "THE DARK FOREST / 黑暗森林",
+  "bpm": 120,
+  "duration": 144,
+  "key": "D minor",
+  "voiceover": false,
+  "sampleRate": 44100,
+  "peakDbFS": -1.2,
+  "rmsDbFS": -16.99,
+  "chapters": [
+    {
+      "name": "signal",
+      "start": 0,
+      "end": 8,
+      "frame": 0
+    },
+    {
+      "name": "forest",
+      "start": 8,
+      "end": 18,
+      "frame": 240
+    },
+    {
+      "name": "survival",
+      "start": 18,
+      "end": 28,
+      "frame": 540
+    },
+    {
+      "name": "resources",
+      "start": 28,
+      "end": 38,
+      "frame": 840
+    },
+    {
+      "name": "encounter",
+      "start": 38,
+      "end": 48,
+      "frame": 1140
+    },
+    {
+      "name": "suspicion",
+      "start": 48,
+      "end": 60,
+      "frame": 1440
+    },
+    {
+      "name": "latency",
+      "start": 60,
+      "end": 72,
+      "frame": 1800
+    },
+    {
+      "name": "technology",
+      "start": 72,
+      "end": 84,
+      "frame": 2160
+    },
+    {
+      "name": "strike",
+      "start": 84,
+      "end": 94,
+      "frame": 2520
+    },
+    {
+      "name": "broadcast",
+      "start": 94,
+      "end": 104,
+      "frame": 2820
+    },
+    {
+      "name": "silence",
+      "start": 104,
+      "end": 112,
+      "frame": 3120
+    },
+    {
+      "name": "limits",
+      "start": 112,
+      "end": 124,
+      "frame": 3360
+    },
+    {
+      "name": "science",
+      "start": 124,
+      "end": 136,
+      "frame": 3720
+    },
+    {
+      "name": "ending",
+      "start": 136,
+      "end": 144,
+      "frame": 4080
+    }
+  ],
+  "events": [
+    {
+      "time": 8,
+      "frame": 240,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 18,
+      "frame": 540,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 28,
+      "frame": 840,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 38,
+      "frame": 1140,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 48,
+      "frame": 1440,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 60,
+      "frame": 1800,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 72,
+      "frame": 2160,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 84,
+      "frame": 2520,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 94,
+      "frame": 2820,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 104,
+      "frame": 3120,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 112,
+      "frame": 3360,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 124,
+      "frame": 3720,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 136,
+      "frame": 4080,
+      "kind": "chapter-impact",
+      "strength": 0.7
+    },
+    {
+      "time": 4.5,
+      "frame": 135,
+      "kind": "opening-count",
+      "strength": 1
+    },
+    {
+      "time": 5.5,
+      "frame": 165,
+      "kind": "opening-count",
+      "strength": 1
+    },
+    {
+      "time": 6.5,
+      "frame": 195,
+      "kind": "opening-count",
+      "strength": 1
+    },
+    {
+      "time": 48.5,
+      "frame": 1455,
+      "kind": "suspicion-recursion",
+      "strength": 0.6
+    },
+    {
+      "time": 50.5,
+      "frame": 1515,
+      "kind": "suspicion-recursion",
+      "strength": 0.6
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "suspicion-recursion",
+      "strength": 0.6
+    },
+    {
+      "time": 54.5,
+      "frame": 1635,
+      "kind": "suspicion-recursion",
+      "strength": 0.6
+    },
+    {
+      "time": 61.5,
+      "frame": 1845,
+      "kind": "light-year-ping",
+      "strength": 0.8
+    },
+    {
+      "time": 65.5,
+      "frame": 1965,
+      "kind": "light-year-ping",
+      "strength": 0.8
+    },
+    {
+      "time": 69.5,
+      "frame": 2085,
+      "kind": "light-year-ping",
+      "strength": 0.8
+    },
+    {
+      "time": 79.0,
+      "frame": 2370,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 79.25,
+      "frame": 2378,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 79.5,
+      "frame": 2385,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 79.75,
+      "frame": 2392,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 80.0,
+      "frame": 2400,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 80.25,
+      "frame": 2408,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 80.5,
+      "frame": 2415,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 80.75,
+      "frame": 2422,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 81.0,
+      "frame": 2430,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 81.25,
+      "frame": 2438,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 81.5,
+      "frame": 2445,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 81.75,
+      "frame": 2452,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 82.0,
+      "frame": 2460,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 82.25,
+      "frame": 2468,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 82.5,
+      "frame": 2475,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 82.75,
+      "frame": 2482,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 83.0,
+      "frame": 2490,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 83.25,
+      "frame": 2498,
+      "kind": "technology-tick",
+      "strength": 0.5
+    },
+    {
+      "time": 89.5,
+      "frame": 2685,
+      "kind": "beam-launch",
+      "strength": 1
+    },
+    {
+      "time": 91,
+      "frame": 2730,
+      "kind": "strike-impact",
+      "strength": 1
+    },
+    {
+      "time": 97,
+      "frame": 2910,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 97.5,
+      "frame": 2925,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 98,
+      "frame": 2940,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 98.5,
+      "frame": 2955,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 99,
+      "frame": 2970,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 99.5,
+      "frame": 2985,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 100,
+      "frame": 3000,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 100.5,
+      "frame": 3015,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    },
+    {
+      "time": 101,
+      "frame": 3030,
+      "kind": "observer-awakens",
+      "strength": 0.4
+    }
+  ],
+  "authorship": "Original deterministic synthesis. No third-party music, no narration.",
+  "mastering": "Gentle compression; loudness target -16 LUFS, true peak ceiling -1.2 dBTP."
+}

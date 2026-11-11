@@ -1,0 +1,1393 @@
+{
+  "version": "abyss-v1",
+  "duration": 90.0,
+  "bpm": 144,
+  "voiceover": false,
+  "sampleRate": 44100,
+  "peakDbFS": -1.5,
+  "rmsDbFS": -15.49,
+  "mastering": "Target -16 LUFS, -1.5 dBTP",
+  "style": "Deep-space drones, modal tension, mono sub, heartbeat, dark sonar, wide filtered reflections",
+  "events": [
+    {
+      "time": 0.0,
+      "frame": 0,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 0.416667,
+      "frame": 12,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 0.833333,
+      "frame": 25,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 1.25,
+      "frame": 38,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 1.666667,
+      "frame": 50,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 2.083333,
+      "frame": 63,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 2.5,
+      "frame": 75,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 2.916667,
+      "frame": 88,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 3.333333,
+      "frame": 100,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 3.333333,
+      "frame": 100,
+      "kind": "count"
+    },
+    {
+      "time": 3.75,
+      "frame": 112,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 3.75,
+      "frame": 112,
+      "kind": "count"
+    },
+    {
+      "time": 4.166667,
+      "frame": 125,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 4.166667,
+      "frame": 125,
+      "kind": "count"
+    },
+    {
+      "time": 4.583333,
+      "frame": 138,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 5.0,
+      "frame": 150,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 5.0,
+      "frame": 150,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 5.416667,
+      "frame": 162,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 5.833333,
+      "frame": 175,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 6.25,
+      "frame": 188,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 6.666667,
+      "frame": 200,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 7.083333,
+      "frame": 213,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 7.5,
+      "frame": 225,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 7.916667,
+      "frame": 238,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 8.333333,
+      "frame": 250,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 8.75,
+      "frame": 262,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 9.166667,
+      "frame": 275,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 9.583333,
+      "frame": 288,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 10.0,
+      "frame": 300,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 10.0,
+      "frame": 300,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 10.416667,
+      "frame": 312,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 10.833333,
+      "frame": 325,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 11.25,
+      "frame": 338,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 11.666667,
+      "frame": 350,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 12.083333,
+      "frame": 362,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 12.5,
+      "frame": 375,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 12.916667,
+      "frame": 388,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 13.333333,
+      "frame": 400,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 13.75,
+      "frame": 412,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 14.166667,
+      "frame": 425,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 14.583333,
+      "frame": 438,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 15.0,
+      "frame": 450,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 15.0,
+      "frame": 450,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 15.416667,
+      "frame": 462,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 15.833333,
+      "frame": 475,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 16.25,
+      "frame": 488,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 16.666667,
+      "frame": 500,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 17.083333,
+      "frame": 513,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 17.5,
+      "frame": 525,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 17.916667,
+      "frame": 538,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 18.333333,
+      "frame": 550,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 18.75,
+      "frame": 563,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 19.166667,
+      "frame": 575,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 19.583333,
+      "frame": 588,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 20.0,
+      "frame": 600,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 20.416667,
+      "frame": 612,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 20.833333,
+      "frame": 625,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 21.25,
+      "frame": 638,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 21.666667,
+      "frame": 650,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 21.666667,
+      "frame": 650,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 22.083333,
+      "frame": 663,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 22.5,
+      "frame": 675,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 22.916667,
+      "frame": 688,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 23.333333,
+      "frame": 700,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 23.75,
+      "frame": 713,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 24.166667,
+      "frame": 725,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 24.583333,
+      "frame": 738,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 25.0,
+      "frame": 750,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 25.416667,
+      "frame": 762,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 25.833333,
+      "frame": 775,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 26.25,
+      "frame": 788,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 26.666667,
+      "frame": 800,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 27.083333,
+      "frame": 813,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 27.5,
+      "frame": 825,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 27.916667,
+      "frame": 838,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 28.333333,
+      "frame": 850,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 28.333333,
+      "frame": 850,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 28.75,
+      "frame": 863,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 28.75,
+      "frame": 862,
+      "kind": "recursion"
+    },
+    {
+      "time": 29.166667,
+      "frame": 875,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 29.583333,
+      "frame": 888,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 30.0,
+      "frame": 900,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 30.416667,
+      "frame": 912,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 30.416667,
+      "frame": 912,
+      "kind": "recursion"
+    },
+    {
+      "time": 30.833333,
+      "frame": 925,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 31.25,
+      "frame": 938,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 31.666667,
+      "frame": 950,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 32.083333,
+      "frame": 963,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 32.083333,
+      "frame": 962,
+      "kind": "recursion"
+    },
+    {
+      "time": 32.5,
+      "frame": 975,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 32.916667,
+      "frame": 988,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 33.333333,
+      "frame": 1000,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 33.75,
+      "frame": 1012,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 33.75,
+      "frame": 1012,
+      "kind": "recursion"
+    },
+    {
+      "time": 34.166667,
+      "frame": 1025,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 34.583333,
+      "frame": 1038,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 35.0,
+      "frame": 1050,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 35.0,
+      "frame": 1050,
+      "kind": "infinity"
+    },
+    {
+      "time": 35.416667,
+      "frame": 1062,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 35.833333,
+      "frame": 1075,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 36.25,
+      "frame": 1088,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 36.666667,
+      "frame": 1100,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 36.666667,
+      "frame": 1100,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 37.083333,
+      "frame": 1112,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 37.5,
+      "frame": 1125,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 37.5,
+      "frame": 1125,
+      "kind": "ping"
+    },
+    {
+      "time": 37.916667,
+      "frame": 1138,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 38.333333,
+      "frame": 1150,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 38.75,
+      "frame": 1162,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 39.166667,
+      "frame": 1175,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 39.583333,
+      "frame": 1188,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 40.0,
+      "frame": 1200,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 40.416667,
+      "frame": 1212,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 40.833333,
+      "frame": 1225,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 40.833333,
+      "frame": 1225,
+      "kind": "ping"
+    },
+    {
+      "time": 41.25,
+      "frame": 1238,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 41.666667,
+      "frame": 1250,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 42.083333,
+      "frame": 1262,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 42.5,
+      "frame": 1275,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 42.916667,
+      "frame": 1288,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 43.333333,
+      "frame": 1300,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 43.75,
+      "frame": 1312,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 44.166667,
+      "frame": 1325,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 44.166667,
+      "frame": 1325,
+      "kind": "ping"
+    },
+    {
+      "time": 44.583333,
+      "frame": 1338,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 45.0,
+      "frame": 1350,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 45.0,
+      "frame": 1350,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 45.416667,
+      "frame": 1362,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 45.416667,
+      "frame": 1362,
+      "kind": "ramp"
+    },
+    {
+      "time": 45.833333,
+      "frame": 1375,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 46.25,
+      "frame": 1388,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 46.666667,
+      "frame": 1400,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 47.083333,
+      "frame": 1412,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 47.5,
+      "frame": 1425,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 47.916667,
+      "frame": 1438,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 48.333333,
+      "frame": 1450,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 48.75,
+      "frame": 1462,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 49.166667,
+      "frame": 1475,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 49.583333,
+      "frame": 1488,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 50.0,
+      "frame": 1500,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 50.0,
+      "frame": 1500,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 50.208333,
+      "frame": 1506,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 50.416667,
+      "frame": 1512,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 50.416667,
+      "frame": 1512,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 50.625,
+      "frame": 1519,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 50.833333,
+      "frame": 1525,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 50.833333,
+      "frame": 1525,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 51.041667,
+      "frame": 1531,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "ramp"
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 51.458333,
+      "frame": 1544,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 51.666667,
+      "frame": 1550,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 51.666667,
+      "frame": 1550,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 51.875,
+      "frame": 1556,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 52.083333,
+      "frame": 1562,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 52.083333,
+      "frame": 1562,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 52.291667,
+      "frame": 1569,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "ramp"
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 52.708333,
+      "frame": 1581,
+      "kind": "technology-tick"
+    },
+    {
+      "time": 52.916667,
+      "frame": 1588,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 53.333333,
+      "frame": 1600,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 53.333333,
+      "frame": 1600,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 53.75,
+      "frame": 1612,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 54.166667,
+      "frame": 1625,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 54.583333,
+      "frame": 1638,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 55.0,
+      "frame": 1650,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 55.416667,
+      "frame": 1662,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 55.833333,
+      "frame": 1675,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 56.25,
+      "frame": 1688,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 56.666667,
+      "frame": 1700,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 57.083333,
+      "frame": 1712,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 57.083333,
+      "frame": 1712,
+      "kind": "launch"
+    },
+    {
+      "time": 57.5,
+      "frame": 1725,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 57.916667,
+      "frame": 1738,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 58.333333,
+      "frame": 1750,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 58.333333,
+      "frame": 1750,
+      "kind": "impact"
+    },
+    {
+      "time": 58.75,
+      "frame": 1762,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 59.166667,
+      "frame": 1775,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 59.583333,
+      "frame": 1788,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 60.0,
+      "frame": 1800,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 60.0,
+      "frame": 1800,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 60.416667,
+      "frame": 1812,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 60.833333,
+      "frame": 1825,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "observers"
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "observer"
+    },
+    {
+      "time": 61.458333,
+      "frame": 1844,
+      "kind": "observer"
+    },
+    {
+      "time": 61.666667,
+      "frame": 1850,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 61.666667,
+      "frame": 1850,
+      "kind": "observer"
+    },
+    {
+      "time": 61.875,
+      "frame": 1856,
+      "kind": "observer"
+    },
+    {
+      "time": 62.083333,
+      "frame": 1862,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 62.083333,
+      "frame": 1862,
+      "kind": "observer"
+    },
+    {
+      "time": 62.291667,
+      "frame": 1869,
+      "kind": "observer"
+    },
+    {
+      "time": 62.5,
+      "frame": 1875,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 62.5,
+      "frame": 1875,
+      "kind": "observer"
+    },
+    {
+      "time": 62.708333,
+      "frame": 1881,
+      "kind": "observer"
+    },
+    {
+      "time": 62.916667,
+      "frame": 1888,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 62.916667,
+      "frame": 1888,
+      "kind": "observer"
+    },
+    {
+      "time": 63.125,
+      "frame": 1894,
+      "kind": "observer"
+    },
+    {
+      "time": 63.333333,
+      "frame": 1900,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 63.333333,
+      "frame": 1900,
+      "kind": "observer"
+    },
+    {
+      "time": 63.541667,
+      "frame": 1906,
+      "kind": "observers-end"
+    },
+    {
+      "time": 63.541667,
+      "frame": 1906,
+      "kind": "observer"
+    },
+    {
+      "time": 63.75,
+      "frame": 1912,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 64.166667,
+      "frame": 1925,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 64.583333,
+      "frame": 1938,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 65.0,
+      "frame": 1950,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 65.0,
+      "frame": 1950,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 65.416667,
+      "frame": 1963,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 65.833333,
+      "frame": 1975,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 66.25,
+      "frame": 1988,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 66.666667,
+      "frame": 2000,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 67.083333,
+      "frame": 2013,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 67.5,
+      "frame": 2025,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 67.916667,
+      "frame": 2038,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 68.333333,
+      "frame": 2050,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 68.333333,
+      "frame": 2050,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 68.75,
+      "frame": 2063,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 69.166667,
+      "frame": 2075,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 69.166667,
+      "frame": 2075,
+      "kind": "condition"
+    },
+    {
+      "time": 69.583333,
+      "frame": 2088,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 70.0,
+      "frame": 2100,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 70.416667,
+      "frame": 2112,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 70.833333,
+      "frame": 2125,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 70.833333,
+      "frame": 2125,
+      "kind": "condition"
+    },
+    {
+      "time": 71.25,
+      "frame": 2138,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 71.666667,
+      "frame": 2150,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 72.083333,
+      "frame": 2163,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 72.5,
+      "frame": 2175,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 72.5,
+      "frame": 2175,
+      "kind": "condition"
+    },
+    {
+      "time": 72.916667,
+      "frame": 2188,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 73.333333,
+      "frame": 2200,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 73.75,
+      "frame": 2213,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 74.166667,
+      "frame": 2225,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 74.583333,
+      "frame": 2238,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 75.0,
+      "frame": 2250,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 75.416667,
+      "frame": 2262,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 75.833333,
+      "frame": 2275,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 76.25,
+      "frame": 2288,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 76.666667,
+      "frame": 2300,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 76.666667,
+      "frame": 2300,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 77.083333,
+      "frame": 2313,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 77.5,
+      "frame": 2325,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 77.916667,
+      "frame": 2338,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 78.333333,
+      "frame": 2350,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 78.75,
+      "frame": 2363,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 79.166667,
+      "frame": 2375,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 79.583333,
+      "frame": 2388,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 80.0,
+      "frame": 2400,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 80.416667,
+      "frame": 2412,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 80.833333,
+      "frame": 2425,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 81.25,
+      "frame": 2438,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 81.666667,
+      "frame": 2450,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 82.083333,
+      "frame": 2463,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 82.5,
+      "frame": 2475,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 82.916667,
+      "frame": 2488,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 83.333333,
+      "frame": 2500,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 83.75,
+      "frame": 2513,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 84.166667,
+      "frame": 2525,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 84.583333,
+      "frame": 2538,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 85.0,
+      "frame": 2550,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 85.0,
+      "frame": 2550,
+      "kind": "chapter-impact"
+    },
+    {
+      "time": 85.416667,
+      "frame": 2562,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 85.833333,
+      "frame": 2575,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 86.25,
+      "frame": 2588,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 86.666667,
+      "frame": 2600,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 87.083333,
+      "frame": 2613,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 87.5,
+      "frame": 2625,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 87.916667,
+      "frame": 2638,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 88.333333,
+      "frame": 2650,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 88.75,
+      "frame": 2663,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 89.166667,
+      "frame": 2675,
+      "kind": "heartbeat"
+    },
+    {
+      "time": 89.583333,
+      "frame": 2688,
+      "kind": "heartbeat"
+    }
+  ]
+}

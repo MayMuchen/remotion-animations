@@ -1,0 +1,30 @@
+{
+  "name": "dark-forest",
+  "version": "1.0.0",
+  "description": "黑暗森林法则 — Remotion video",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render DarkForest out/dark-forest.mp4 --gl=angle",
+    "audio": "python3 scripts/make_audio.py",
+    "lint": "tsc"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.2",
+    "@remotion/cli": "4.0.541",
+    "@remotion/media": "4.0.541",
+    "@remotion/three": "4.0.541",
+    "@remotion/transitions": "4.0.541",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.541",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/three": "^0.187.0",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+out/
+.vendor/
+
+# 渲染成片（体积超过 GitHub 单文件 100MB 限制，属于渲染产物而非源码）
+/opus/dark-forest/*.mp4
+/opus/love-beat/*.mp4
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log

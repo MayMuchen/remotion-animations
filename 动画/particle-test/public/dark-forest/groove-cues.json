@@ -1,0 +1,2567 @@
+{
+  "version": "groove-v2",
+  "bpm": 144,
+  "duration": 90.0,
+  "voiceover": false,
+  "key": "D minor",
+  "sampleRate": 44100,
+  "peakDbFS": -1.21,
+  "rmsDbFS": -13.7,
+  "mastering": "Target -14 LUFS, -1.2 dBTP",
+  "chapters": [
+    {
+      "startFrame": 0,
+      "bars": 3,
+      "sourceDuration": 8,
+      "id": "signal",
+      "name": "01 · 被听见的问候",
+      "events": [
+        {
+          "beat": 8,
+          "time": 4.5,
+          "kind": "count"
+        },
+        {
+          "beat": 9,
+          "time": 5.5,
+          "kind": "count"
+        },
+        {
+          "beat": 10,
+          "time": 6.5,
+          "kind": "count"
+        }
+      ]
+    },
+    {
+      "startFrame": 150,
+      "bars": 3,
+      "sourceDuration": 10,
+      "id": "forest",
+      "name": "02 · 黑暗森林",
+      "events": []
+    },
+    {
+      "startFrame": 300,
+      "bars": 3,
+      "sourceDuration": 10,
+      "id": "survival",
+      "name": "03 · 生存公理",
+      "events": []
+    },
+    {
+      "startFrame": 450,
+      "bars": 4,
+      "sourceDuration": 10,
+      "id": "resources",
+      "name": "04 · 有限资源",
+      "events": []
+    },
+    {
+      "startFrame": 650,
+      "bars": 4,
+      "sourceDuration": 10,
+      "id": "encounter",
+      "name": "05 · 未知的善意",
+      "events": []
+    },
+    {
+      "startFrame": 850,
+      "bars": 5,
+      "sourceDuration": 12,
+      "id": "suspicion",
+      "name": "06 · 猜疑链",
+      "events": [
+        {
+          "beat": 1,
+          "time": 0.5,
+          "kind": "recursion"
+        },
+        {
+          "beat": 5,
+          "time": 2.5,
+          "kind": "recursion"
+        },
+        {
+          "beat": 9,
+          "time": 4.5,
+          "kind": "recursion"
+        },
+        {
+          "beat": 13,
+          "time": 6.5,
+          "kind": "recursion"
+        },
+        {
+          "beat": 16,
+          "time": 8,
+          "kind": "infinity"
+        }
+      ]
+    },
+    {
+      "startFrame": 1100,
+      "bars": 5,
+      "sourceDuration": 12,
+      "id": "latency",
+      "name": "07 · 光年的等待",
+      "events": [
+        {
+          "beat": 2,
+          "time": 1.5,
+          "kind": "ping"
+        },
+        {
+          "beat": 10,
+          "time": 5.5,
+          "kind": "ping"
+        },
+        {
+          "beat": 18,
+          "time": 9.5,
+          "kind": "ping"
+        }
+      ]
+    },
+    {
+      "startFrame": 1350,
+      "bars": 5,
+      "sourceDuration": 12,
+      "id": "technology",
+      "name": "08 · 技术爆炸",
+      "events": [
+        {
+          "beat": 1,
+          "time": 1,
+          "kind": "ramp"
+        },
+        {
+          "beat": 15,
+          "time": 7,
+          "kind": "ramp"
+        },
+        {
+          "beat": 18,
+          "time": 9,
+          "kind": "ramp"
+        }
+      ]
+    },
+    {
+      "startFrame": 1600,
+      "bars": 4,
+      "sourceDuration": 10,
+      "id": "strike",
+      "name": "09 · 极端策略",
+      "events": [
+        {
+          "beat": 9,
+          "time": 5.5,
+          "kind": "launch"
+        },
+        {
+          "beat": 12,
+          "time": 7,
+          "kind": "impact"
+        }
+      ]
+    },
+    {
+      "startFrame": 1800,
+      "bars": 3,
+      "sourceDuration": 10,
+      "id": "broadcast",
+      "name": "10 · 广播与暴露",
+      "events": [
+        {
+          "beat": 3,
+          "time": 3,
+          "kind": "observers"
+        },
+        {
+          "beat": 8.5,
+          "time": 8.5,
+          "kind": "observers-end"
+        }
+      ]
+    },
+    {
+      "startFrame": 1950,
+      "bars": 2,
+      "sourceDuration": 8,
+      "id": "silence",
+      "name": "11 · 沉默均衡",
+      "events": []
+    },
+    {
+      "startFrame": 2050,
+      "bars": 5,
+      "sourceDuration": 12,
+      "id": "limits",
+      "name": "12 · 模型的边界",
+      "events": [
+        {
+          "beat": 2,
+          "time": 0.8,
+          "kind": "condition"
+        },
+        {
+          "beat": 6,
+          "time": 2.3,
+          "kind": "condition"
+        },
+        {
+          "beat": 10,
+          "time": 3.8,
+          "kind": "condition"
+        }
+      ]
+    },
+    {
+      "startFrame": 2300,
+      "bars": 5,
+      "sourceDuration": 12,
+      "id": "science",
+      "name": "13 · 科学仍在寻找",
+      "events": []
+    },
+    {
+      "startFrame": 2550,
+      "bars": 3,
+      "sourceDuration": 8,
+      "id": "ending",
+      "name": "14 · 你的选择",
+      "events": []
+    }
+  ],
+  "events": [
+    {
+      "time": 0.0,
+      "frame": 0,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 0.416667,
+      "frame": 12,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 0.416667,
+      "frame": 12,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 0.833333,
+      "frame": 25,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 1.25,
+      "frame": 38,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 1.25,
+      "frame": 38,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 1.666667,
+      "frame": 50,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 2.083333,
+      "frame": 63,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 2.083333,
+      "frame": 63,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 2.5,
+      "frame": 75,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 2.916667,
+      "frame": 88,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 2.916667,
+      "frame": 88,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 3.333333,
+      "frame": 100,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 3.333333,
+      "frame": 100,
+      "kind": "count",
+      "strength": 1
+    },
+    {
+      "time": 3.75,
+      "frame": 112,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 3.75,
+      "frame": 112,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 3.75,
+      "frame": 112,
+      "kind": "count",
+      "strength": 1
+    },
+    {
+      "time": 4.166667,
+      "frame": 125,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 4.166667,
+      "frame": 125,
+      "kind": "count",
+      "strength": 1
+    },
+    {
+      "time": 4.583333,
+      "frame": 138,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 4.583333,
+      "frame": 138,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 5.0,
+      "frame": 150,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 5.0,
+      "frame": 150,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 5.416667,
+      "frame": 162,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 5.416667,
+      "frame": 162,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 5.833333,
+      "frame": 175,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 6.25,
+      "frame": 188,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 6.25,
+      "frame": 188,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 6.666667,
+      "frame": 200,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 7.083333,
+      "frame": 213,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 7.083333,
+      "frame": 213,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 7.5,
+      "frame": 225,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 7.916667,
+      "frame": 238,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 7.916667,
+      "frame": 238,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 8.333333,
+      "frame": 250,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 8.75,
+      "frame": 262,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 8.75,
+      "frame": 262,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 9.166667,
+      "frame": 275,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 9.583333,
+      "frame": 288,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 9.583333,
+      "frame": 288,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 10.0,
+      "frame": 300,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 10.0,
+      "frame": 300,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 10.416667,
+      "frame": 312,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 10.416667,
+      "frame": 312,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 10.833333,
+      "frame": 325,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 11.25,
+      "frame": 338,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 11.25,
+      "frame": 338,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 11.666667,
+      "frame": 350,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 12.083333,
+      "frame": 362,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 12.083333,
+      "frame": 362,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 12.5,
+      "frame": 375,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 12.916667,
+      "frame": 388,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 12.916667,
+      "frame": 388,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 13.333333,
+      "frame": 400,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 13.75,
+      "frame": 412,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 13.75,
+      "frame": 412,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 14.166667,
+      "frame": 425,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 14.583333,
+      "frame": 438,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 14.583333,
+      "frame": 438,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 15.0,
+      "frame": 450,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 15.0,
+      "frame": 450,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 15.416667,
+      "frame": 462,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 15.416667,
+      "frame": 462,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 15.833333,
+      "frame": 475,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 16.25,
+      "frame": 488,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 16.25,
+      "frame": 488,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 16.666667,
+      "frame": 500,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 17.083333,
+      "frame": 513,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 17.083333,
+      "frame": 513,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 17.5,
+      "frame": 525,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 17.916667,
+      "frame": 538,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 17.916667,
+      "frame": 538,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 18.333333,
+      "frame": 550,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 18.75,
+      "frame": 563,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 18.75,
+      "frame": 563,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 19.166667,
+      "frame": 575,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 19.583333,
+      "frame": 588,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 19.583333,
+      "frame": 588,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 20.0,
+      "frame": 600,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 20.416667,
+      "frame": 612,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 20.416667,
+      "frame": 612,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 20.833333,
+      "frame": 625,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 21.25,
+      "frame": 638,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 21.25,
+      "frame": 638,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 21.666667,
+      "frame": 650,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 21.666667,
+      "frame": 650,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 22.083333,
+      "frame": 663,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 22.083333,
+      "frame": 663,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 22.5,
+      "frame": 675,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 22.916667,
+      "frame": 688,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 22.916667,
+      "frame": 688,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 23.333333,
+      "frame": 700,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 23.75,
+      "frame": 713,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 23.75,
+      "frame": 713,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 24.166667,
+      "frame": 725,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 24.583333,
+      "frame": 738,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 24.583333,
+      "frame": 738,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 25.0,
+      "frame": 750,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 25.416667,
+      "frame": 762,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 25.416667,
+      "frame": 762,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 25.833333,
+      "frame": 775,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 26.25,
+      "frame": 788,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 26.25,
+      "frame": 788,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 26.666667,
+      "frame": 800,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 27.083333,
+      "frame": 813,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 27.083333,
+      "frame": 813,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 27.5,
+      "frame": 825,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 27.916667,
+      "frame": 838,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 27.916667,
+      "frame": 838,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 28.333333,
+      "frame": 850,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 28.333333,
+      "frame": 850,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 28.75,
+      "frame": 863,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 28.75,
+      "frame": 863,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 28.75,
+      "frame": 862,
+      "kind": "recursion",
+      "strength": 1
+    },
+    {
+      "time": 29.166667,
+      "frame": 875,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 29.583333,
+      "frame": 888,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 29.583333,
+      "frame": 888,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 30.0,
+      "frame": 900,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 30.416667,
+      "frame": 912,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 30.416667,
+      "frame": 912,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 30.416667,
+      "frame": 912,
+      "kind": "recursion",
+      "strength": 1
+    },
+    {
+      "time": 30.833333,
+      "frame": 925,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 31.25,
+      "frame": 938,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 31.25,
+      "frame": 938,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 31.666667,
+      "frame": 950,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 32.083333,
+      "frame": 963,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 32.083333,
+      "frame": 963,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 32.083333,
+      "frame": 962,
+      "kind": "recursion",
+      "strength": 1
+    },
+    {
+      "time": 32.5,
+      "frame": 975,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 32.916667,
+      "frame": 988,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 32.916667,
+      "frame": 988,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 33.333333,
+      "frame": 1000,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 33.75,
+      "frame": 1012,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 33.75,
+      "frame": 1012,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 33.75,
+      "frame": 1012,
+      "kind": "recursion",
+      "strength": 1
+    },
+    {
+      "time": 34.166667,
+      "frame": 1025,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 34.583333,
+      "frame": 1038,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 34.583333,
+      "frame": 1038,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 35.0,
+      "frame": 1050,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 35.0,
+      "frame": 1050,
+      "kind": "infinity",
+      "strength": 1
+    },
+    {
+      "time": 35.416667,
+      "frame": 1062,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 35.416667,
+      "frame": 1062,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 35.833333,
+      "frame": 1075,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 36.25,
+      "frame": 1088,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 36.25,
+      "frame": 1088,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 36.666667,
+      "frame": 1100,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 36.666667,
+      "frame": 1100,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 37.083333,
+      "frame": 1112,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 37.083333,
+      "frame": 1112,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 37.5,
+      "frame": 1125,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 37.5,
+      "frame": 1125,
+      "kind": "ping",
+      "strength": 1
+    },
+    {
+      "time": 37.916667,
+      "frame": 1138,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 37.916667,
+      "frame": 1138,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 38.333333,
+      "frame": 1150,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 38.75,
+      "frame": 1162,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 38.75,
+      "frame": 1162,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 39.166667,
+      "frame": 1175,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 39.583333,
+      "frame": 1188,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 39.583333,
+      "frame": 1188,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 40.0,
+      "frame": 1200,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 40.416667,
+      "frame": 1212,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 40.416667,
+      "frame": 1212,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 40.833333,
+      "frame": 1225,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 40.833333,
+      "frame": 1225,
+      "kind": "ping",
+      "strength": 1
+    },
+    {
+      "time": 41.25,
+      "frame": 1238,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 41.25,
+      "frame": 1238,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 41.666667,
+      "frame": 1250,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 42.083333,
+      "frame": 1262,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 42.083333,
+      "frame": 1262,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 42.5,
+      "frame": 1275,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 42.916667,
+      "frame": 1288,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 42.916667,
+      "frame": 1288,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 43.333333,
+      "frame": 1300,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 43.75,
+      "frame": 1312,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 43.75,
+      "frame": 1312,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 44.166667,
+      "frame": 1325,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 44.166667,
+      "frame": 1325,
+      "kind": "ping",
+      "strength": 1
+    },
+    {
+      "time": 44.583333,
+      "frame": 1338,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 44.583333,
+      "frame": 1338,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 45.0,
+      "frame": 1350,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 45.0,
+      "frame": 1350,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 45.416667,
+      "frame": 1362,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 45.416667,
+      "frame": 1362,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 45.416667,
+      "frame": 1362,
+      "kind": "ramp",
+      "strength": 1
+    },
+    {
+      "time": 45.833333,
+      "frame": 1375,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 46.25,
+      "frame": 1388,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 46.25,
+      "frame": 1388,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 46.666667,
+      "frame": 1400,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 47.083333,
+      "frame": 1412,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 47.083333,
+      "frame": 1412,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 47.5,
+      "frame": 1425,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 47.916667,
+      "frame": 1438,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 47.916667,
+      "frame": 1438,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 48.333333,
+      "frame": 1450,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 48.75,
+      "frame": 1462,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 48.75,
+      "frame": 1462,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 49.166667,
+      "frame": 1475,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 49.583333,
+      "frame": 1488,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 49.583333,
+      "frame": 1488,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 50.0,
+      "frame": 1500,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 50.0,
+      "frame": 1500,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.104167,
+      "frame": 1503,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.208333,
+      "frame": 1506,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.3125,
+      "frame": 1509,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.416667,
+      "frame": 1512,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 50.416667,
+      "frame": 1512,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 50.416667,
+      "frame": 1512,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.520833,
+      "frame": 1516,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.625,
+      "frame": 1519,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.729167,
+      "frame": 1522,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.833333,
+      "frame": 1525,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 50.833333,
+      "frame": 1525,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 50.9375,
+      "frame": 1528,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.041667,
+      "frame": 1531,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.145833,
+      "frame": 1534,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "ramp",
+      "strength": 1
+    },
+    {
+      "time": 51.25,
+      "frame": 1538,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.354167,
+      "frame": 1541,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.458333,
+      "frame": 1544,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.5625,
+      "frame": 1547,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.666667,
+      "frame": 1550,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 51.666667,
+      "frame": 1550,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.770833,
+      "frame": 1553,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.875,
+      "frame": 1556,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 51.979167,
+      "frame": 1559,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.083333,
+      "frame": 1562,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 52.083333,
+      "frame": 1562,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 52.083333,
+      "frame": 1562,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.1875,
+      "frame": 1566,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.291667,
+      "frame": 1569,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.395833,
+      "frame": 1572,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "ramp",
+      "strength": 1
+    },
+    {
+      "time": 52.5,
+      "frame": 1575,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.604167,
+      "frame": 1578,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.708333,
+      "frame": 1581,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.8125,
+      "frame": 1584,
+      "kind": "technology-tick",
+      "strength": 0.4
+    },
+    {
+      "time": 52.916667,
+      "frame": 1588,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 52.916667,
+      "frame": 1588,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 53.333333,
+      "frame": 1600,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 53.333333,
+      "frame": 1600,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 53.75,
+      "frame": 1612,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 53.75,
+      "frame": 1612,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 54.166667,
+      "frame": 1625,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 54.583333,
+      "frame": 1638,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 54.583333,
+      "frame": 1638,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 55.0,
+      "frame": 1650,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 55.416667,
+      "frame": 1662,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 55.416667,
+      "frame": 1662,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 55.833333,
+      "frame": 1675,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 56.25,
+      "frame": 1688,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 56.25,
+      "frame": 1688,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 56.666667,
+      "frame": 1700,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 57.083333,
+      "frame": 1712,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 57.083333,
+      "frame": 1712,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 57.083333,
+      "frame": 1712,
+      "kind": "launch",
+      "strength": 1
+    },
+    {
+      "time": 57.5,
+      "frame": 1725,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 57.916667,
+      "frame": 1738,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 57.916667,
+      "frame": 1738,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 58.333333,
+      "frame": 1750,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 58.333333,
+      "frame": 1750,
+      "kind": "impact",
+      "strength": 1
+    },
+    {
+      "time": 58.75,
+      "frame": 1762,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 58.75,
+      "frame": 1762,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 59.166667,
+      "frame": 1775,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 59.583333,
+      "frame": 1788,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 59.583333,
+      "frame": 1788,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 60.0,
+      "frame": 1800,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 60.0,
+      "frame": 1800,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 60.416667,
+      "frame": 1812,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 60.416667,
+      "frame": 1812,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 60.833333,
+      "frame": 1825,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "observers",
+      "strength": 1
+    },
+    {
+      "time": 61.25,
+      "frame": 1838,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 61.458333,
+      "frame": 1844,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 61.666667,
+      "frame": 1850,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 61.666667,
+      "frame": 1850,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 61.875,
+      "frame": 1856,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 62.083333,
+      "frame": 1862,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 62.083333,
+      "frame": 1862,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 62.083333,
+      "frame": 1862,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 62.291667,
+      "frame": 1869,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 62.5,
+      "frame": 1875,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 62.5,
+      "frame": 1875,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 62.708333,
+      "frame": 1881,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 62.916667,
+      "frame": 1888,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 62.916667,
+      "frame": 1888,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 62.916667,
+      "frame": 1888,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 63.125,
+      "frame": 1894,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 63.333333,
+      "frame": 1900,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 63.333333,
+      "frame": 1900,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 63.541667,
+      "frame": 1906,
+      "kind": "observers-end",
+      "strength": 1
+    },
+    {
+      "time": 63.541667,
+      "frame": 1906,
+      "kind": "observer",
+      "strength": 0.5
+    },
+    {
+      "time": 63.75,
+      "frame": 1912,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 63.75,
+      "frame": 1912,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 64.166667,
+      "frame": 1925,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 64.583333,
+      "frame": 1938,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 64.583333,
+      "frame": 1938,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 65.0,
+      "frame": 1950,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 65.0,
+      "frame": 1950,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 65.416667,
+      "frame": 1963,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 65.833333,
+      "frame": 1975,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 66.25,
+      "frame": 1988,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 66.666667,
+      "frame": 2000,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 67.083333,
+      "frame": 2013,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 67.5,
+      "frame": 2025,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 67.916667,
+      "frame": 2038,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 68.333333,
+      "frame": 2050,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 68.333333,
+      "frame": 2050,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 68.75,
+      "frame": 2063,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 68.75,
+      "frame": 2063,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 69.166667,
+      "frame": 2075,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 69.166667,
+      "frame": 2075,
+      "kind": "condition",
+      "strength": 1
+    },
+    {
+      "time": 69.583333,
+      "frame": 2088,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 69.583333,
+      "frame": 2088,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 70.0,
+      "frame": 2100,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 70.416667,
+      "frame": 2112,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 70.416667,
+      "frame": 2112,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 70.833333,
+      "frame": 2125,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 70.833333,
+      "frame": 2125,
+      "kind": "condition",
+      "strength": 1
+    },
+    {
+      "time": 71.25,
+      "frame": 2138,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 71.25,
+      "frame": 2138,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 71.666667,
+      "frame": 2150,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 72.083333,
+      "frame": 2163,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 72.083333,
+      "frame": 2163,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 72.5,
+      "frame": 2175,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 72.5,
+      "frame": 2175,
+      "kind": "condition",
+      "strength": 1
+    },
+    {
+      "time": 72.916667,
+      "frame": 2188,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 72.916667,
+      "frame": 2188,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 73.333333,
+      "frame": 2200,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 73.75,
+      "frame": 2213,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 73.75,
+      "frame": 2213,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 74.166667,
+      "frame": 2225,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 74.583333,
+      "frame": 2238,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 74.583333,
+      "frame": 2238,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 75.0,
+      "frame": 2250,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 75.416667,
+      "frame": 2262,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 75.416667,
+      "frame": 2262,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 75.833333,
+      "frame": 2275,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 76.25,
+      "frame": 2288,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 76.25,
+      "frame": 2288,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 76.666667,
+      "frame": 2300,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 76.666667,
+      "frame": 2300,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 77.083333,
+      "frame": 2313,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 77.083333,
+      "frame": 2313,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 77.5,
+      "frame": 2325,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 77.916667,
+      "frame": 2338,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 77.916667,
+      "frame": 2338,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 78.333333,
+      "frame": 2350,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 78.75,
+      "frame": 2363,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 78.75,
+      "frame": 2363,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 79.166667,
+      "frame": 2375,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 79.583333,
+      "frame": 2388,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 79.583333,
+      "frame": 2388,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 80.0,
+      "frame": 2400,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 80.416667,
+      "frame": 2412,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 80.416667,
+      "frame": 2412,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 80.833333,
+      "frame": 2425,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 81.25,
+      "frame": 2438,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 81.25,
+      "frame": 2438,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 81.666667,
+      "frame": 2450,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 82.083333,
+      "frame": 2463,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 82.083333,
+      "frame": 2463,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 82.5,
+      "frame": 2475,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 82.916667,
+      "frame": 2488,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 82.916667,
+      "frame": 2488,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 83.333333,
+      "frame": 2500,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 83.75,
+      "frame": 2513,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 83.75,
+      "frame": 2513,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 84.166667,
+      "frame": 2525,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 84.583333,
+      "frame": 2538,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 84.583333,
+      "frame": 2538,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 85.0,
+      "frame": 2550,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 85.0,
+      "frame": 2550,
+      "kind": "chapter-impact",
+      "strength": 1
+    },
+    {
+      "time": 85.416667,
+      "frame": 2562,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 85.833333,
+      "frame": 2575,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 86.25,
+      "frame": 2588,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 86.666667,
+      "frame": 2600,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 87.083333,
+      "frame": 2613,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 87.5,
+      "frame": 2625,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 87.916667,
+      "frame": 2638,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 88.333333,
+      "frame": 2650,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 88.75,
+      "frame": 2663,
+      "kind": "backbeat",
+      "strength": 0.8
+    },
+    {
+      "time": 89.166667,
+      "frame": 2675,
+      "kind": "kick",
+      "strength": 0.85
+    },
+    {
+      "time": 89.583333,
+      "frame": 2688,
+      "kind": "backbeat",
+      "strength": 0.8
+    }
+  ]
+}

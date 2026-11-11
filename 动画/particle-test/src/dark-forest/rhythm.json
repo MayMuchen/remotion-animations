@@ -1,0 +1,19 @@
+{
+ "bpm":144,"fps":30,"framesPerBar":50,"durationInFrames":2700,
+ "chapters":[
+  {"startFrame":0,"bars":3,"sourceDuration":8,"id":"signal","name":"01 · 被听见的问候","events":[{"beat":8,"time":4.5,"kind":"count"},{"beat":9,"time":5.5,"kind":"count"},{"beat":10,"time":6.5,"kind":"count"}]},
+  {"startFrame":150,"bars":3,"sourceDuration":10,"id":"forest","name":"02 · 黑暗森林","events":[]},
+  {"startFrame":300,"bars":3,"sourceDuration":10,"id":"survival","name":"03 · 生存公理","events":[]},
+  {"startFrame":450,"bars":4,"sourceDuration":10,"id":"resources","name":"04 · 有限资源","events":[]},
+  {"startFrame":650,"bars":4,"sourceDuration":10,"id":"encounter","name":"05 · 未知的善意","events":[]},
+  {"startFrame":850,"bars":5,"sourceDuration":12,"id":"suspicion","name":"06 · 猜疑链","events":[{"beat":1,"time":0.5,"kind":"recursion"},{"beat":5,"time":2.5,"kind":"recursion"},{"beat":9,"time":4.5,"kind":"recursion"},{"beat":13,"time":6.5,"kind":"recursion"},{"beat":16,"time":8,"kind":"infinity"}]},
+  {"startFrame":1100,"bars":5,"sourceDuration":12,"id":"latency","name":"07 · 光年的等待","events":[{"beat":2,"time":1.5,"kind":"ping"},{"beat":10,"time":5.5,"kind":"ping"},{"beat":18,"time":9.5,"kind":"ping"}]},
+  {"startFrame":1350,"bars":5,"sourceDuration":12,"id":"technology","name":"08 · 技术爆炸","events":[{"beat":1,"time":1,"kind":"ramp"},{"beat":15,"time":7,"kind":"ramp"},{"beat":18,"time":9,"kind":"ramp"}]},
+  {"startFrame":1600,"bars":4,"sourceDuration":10,"id":"strike","name":"09 · 极端策略","events":[{"beat":9,"time":5.5,"kind":"launch"},{"beat":12,"time":7,"kind":"impact"}]},
+  {"startFrame":1800,"bars":3,"sourceDuration":10,"id":"broadcast","name":"10 · 广播与暴露","events":[{"beat":3,"time":3,"kind":"observers"},{"beat":8.5,"time":8.5,"kind":"observers-end"}]},
+  {"startFrame":1950,"bars":2,"sourceDuration":8,"id":"silence","name":"11 · 沉默均衡","events":[]},
+  {"startFrame":2050,"bars":5,"sourceDuration":12,"id":"limits","name":"12 · 模型的边界","events":[{"beat":2,"time":0.8,"kind":"condition"},{"beat":6,"time":2.3,"kind":"condition"},{"beat":10,"time":3.8,"kind":"condition"}]},
+  {"startFrame":2300,"bars":5,"sourceDuration":12,"id":"science","name":"13 · 科学仍在寻找","events":[]},
+  {"startFrame":2550,"bars":3,"sourceDuration":8,"id":"ending","name":"14 · 你的选择","events":[]}
+ ]
+}

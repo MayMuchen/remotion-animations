@@ -1,0 +1,52 @@
+{
+  "title": "BEYOND / 越过永夜",
+  "bpm": 120,
+  "key": "D minor",
+  "duration": 64,
+  "sampleRate": 44100,
+  "peakDbFS": -0.82,
+  "rmsDbFS": -14.2,
+  "chapters": [
+    {
+      "time": 0,
+      "frame": 0,
+      "name": "signal"
+    },
+    {
+      "time": 8,
+      "frame": 240,
+      "name": "genesis"
+    },
+    {
+      "time": 16,
+      "frame": 480,
+      "name": "gravity"
+    },
+    {
+      "time": 24,
+      "frame": 720,
+      "name": "velocity"
+    },
+    {
+      "time": 32,
+      "frame": 960,
+      "name": "resonance"
+    },
+    {
+      "time": 40,
+      "frame": 1200,
+      "name": "frontier"
+    },
+    {
+      "time": 48,
+      "frame": 1440,
+      "name": "ascent"
+    },
+    {
+      "time": 56,
+      "frame": 1680,
+      "name": "dawn"
+    }
+  ],
+  "authorship": "Original deterministic synthesis; no third-party audio."
+}
